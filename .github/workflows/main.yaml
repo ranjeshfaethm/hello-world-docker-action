@@ -28,3 +28,6 @@ jobs:
         destination_folder: 'service-database'
         destination_base_branch: 'review'
         destination_head_branch: 'master'
+        user_email: 'ranjesh.chitharanjan@faethm.ai'
+        user_name: 'ranjeshfaethm'
+        pull_request_reviewers: 'ranjeshfaethem'
