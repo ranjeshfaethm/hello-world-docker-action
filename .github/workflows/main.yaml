@@ -30,4 +30,4 @@ jobs:
         destination_head_branch: 'pr-review'
         user_email: 'ranjesh.chitharanjan@faethm.ai'
         user_name: 'ranjeshfaethm'
-        pull_request_reviewers: 'ranjeshfaethem'
+        pull_request_reviewers: 'ranjeshfaethm'
