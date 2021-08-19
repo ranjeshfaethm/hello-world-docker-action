@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step 2
         id: hello2
-        uses: ranjeshfaethm/h-w-docker-action@v1.1
+        uses: actions/hello-world-docker-action@v1
         with:
           who-to-greet: 'Captain Marvel'
       # Use the output from the `hello` step
